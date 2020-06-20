@@ -8,6 +8,11 @@ let's download a building layout image
 wget https://www.crismatec.com/python/of/office-building-floor-plans-beautiful-design-layout-plan_office-decoration.jpg
 ```
 
+this image looks like 
+
+![](https://www.crismatec.com/python/of/office-building-floor-plans-beautiful-design-layout-plan_office-decoration.jpg)
+
+
 then open you python3, and import the tagger
 
 ```python
@@ -35,7 +40,11 @@ let's dowload another image which looks like building layout but actually it is 
 wget https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png
 ```
 
-and run my tagger against it
+this image looks like 
+
+![](https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png)
+
+run my tagger against it
 
 ```python
 building_layout_tagging('track-changes-example-1.png')
