@@ -1,3 +1,21 @@
+## Installation
+
+
+to install the building layout tagger, you need Python 3.7.7 
+
+```bash
+git clone https://github.com/gaoyuanliang/building_layout_tagging.git
+
+cd building_layout_tagging
+
+pip3 install -r requirements.txt
+
+wget https://github.com/fchollet/deep-learning-models/releases/download/v0.4/xception_weights_tf_dim_ordering_tf_kernels_notop.h5
+```
+
+download the pretrain model of cheque detection from this url []() to the folder building_layout_tagging
+
+
 ## Using
 
 ### Test case 1
