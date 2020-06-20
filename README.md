@@ -73,3 +73,10 @@ and the program says
 ```python
 {'tag': 'non_building_layout', 'score': 0.6236702}
 ```
+
+## I am looking for a job
+
+feel free to contact me if you have any problem with this package or you are hiring data scientist/AI engineer. I am actively looking for data science/AI related jobs
+
+My email: gaoyuanliang@outlook.com
+
