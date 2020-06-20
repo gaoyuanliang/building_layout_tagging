@@ -1,6 +1,6 @@
-### Using
+## Using
 
-## Test case 1
+### Test case 1
 
 let's download a building layout image
 
@@ -27,7 +27,7 @@ you will the output:
 {'tag': 'building_layout', 'score': 0.99993956}
 ```
 
-## Test case 2
+### Test case 2
 
 let's dowload another image which looks like building layout but actually it is not
 
