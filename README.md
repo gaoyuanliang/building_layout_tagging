@@ -26,5 +26,17 @@ you will the output:
 let's dowload another image which looks like building layout but actually it is not
 
 ```bash
-wget https://tr4.cbsistatic.com/hub/i/r/2017/06/16/e1cbfd87-4d4c-4f96-afa1-136c39e2985d/resize/1200x/b2fd39b21d2343264426b9bb5a2eee3d/wordtablelistd.jpg
+wget https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png
+```
+
+and run my tagger against it
+
+```python
+building_layout_tagging('track-changes-example-1.png')
+```
+
+and the program says
+
+```python
+{'tag': 'non_building_layout', 'score': 0.6236702}
 ```
