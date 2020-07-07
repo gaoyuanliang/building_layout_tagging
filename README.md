@@ -68,8 +68,7 @@ wget https://www.crismatec.com/python/of/office-building-floor-plans-beautiful-d
 
 this image looks like 
 
-![](https://www.crismatec.com/python/of/office-building-floor-plans-beautiful-design-layout-plan_office-decoration.jpg)
-
+<img src="https://i.stack.imgur.com/s6yBz.jpg" width="600">
 
 then open you python3, and import the tagger
 
@@ -100,7 +99,7 @@ wget https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-chang
 
 this image looks like 
 
-![](https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png)
+<img src="https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png" width="600">
 
 run my tagger against it
 
