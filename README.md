@@ -2,7 +2,40 @@
 
 This deep learning model tags the images of building layout, like
 
-![](https://i.stack.imgur.com/s6yBz.jpg)
+<table>
+  <thead>
+    <tr>
+      <th>Input</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img src="https://i.stack.imgur.com/s6yBz.jpg" width="600">
+    </td>
+    <td>
+      <pre>
+{
+  'tag': 'building_layout', 
+  'score': 0.99993956
+}
+</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://digitalcommunications.wp.st-andrews.ac.uk/files/2017/02/track-changes-example-1.png" width="600">
+    </td>
+    <td>
+      <pre>
+{
+  'tag': 'non_building_layout', 
+  'score': 0.6236702
+}
+</pre>
+    </td>
+  </tr>
+</table>
 
 
 ## Installation
