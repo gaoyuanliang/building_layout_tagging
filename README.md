@@ -44,7 +44,7 @@ This deep learning model tags the images of building layout, like
 to install the building layout tagger, you need Python 3.7.7 
 
 ```bash
-git clone https://github.com/gaoyuanliang/building_layout_tagging.git
+git clone https://github.com/liang6261515/building_layout_tagging.git
 
 cd building_layout_tagging
 
