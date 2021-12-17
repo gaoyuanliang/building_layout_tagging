@@ -117,5 +117,4 @@ and the program says
 
 feel free to contact me if you have any problem with this package or you are hiring data scientist/AI engineer. I am actively looking for data science/AI related jobs
 
-My email: gaoyuanliang@outlook.com
-
+My email: yanliang2345@outlook.com
